@@ -1,4 +1,3 @@
-<div align="center">
 ### Hi Everyone!! 👋
 
 <!--
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jastes&count_private=true&show_icons=true&theme=radical)[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hompens4)](https://solved.ac/kinetic27)
 
 
