@@ -1,6 +1,6 @@
 ### Hello, I am ChoiJunSeong, a Security .
 
-Hello, I'm Choi Joon-sung, a promising information security player.<br>
+Hello, I'm Choi Joon-sung, a promising information security player.😫 <br>
 I will show you that I represent logic with my life's motto, actions, and prove the process as a result!<br>
 If you want to know what you studied with me, please refer to the [notion]() or [tistory](https://dystopia050119.tistory.com/) or [email](mailto:chlwnstjdchlwnstjd@gmail.com) <br>
 If you want to know more about me, please refer to my [portfolio]().
@@ -8,6 +8,8 @@ If you want to know more about me, please refer to my [portfolio]().
 ### Creers
 <code><a href="" rel="nofollow">Gwangju Software Meister High School</a></code>(2021.03 ~ 2024.01)   
 <code><a href="" rel="nofollow">Chosun University</a></code>(2024.03 ~ ing)
+
+Thank you for reading the long article :D
 <!-- <div align="center"> 
 <!-- <a href="https://dystopia050119.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0966c2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
