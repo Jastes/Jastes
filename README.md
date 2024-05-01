@@ -1,4 +1,28 @@
-### Hi Everyone!! 👋
+### Hello, I am ChoiJunSeong, a Security .
+
+Hello, I'm Choi Joon-sung, a promising information security player.<br>
+I will show you that I represent logic with my life's motto, actions, and prove the process as a result!<br>
+If you want to know what you studied with me, please refer to the [notion]() or [tistory](https://dystopia050119.tistory.com/) or [email](mailto:chlwnstjdchlwnstjd@gmail.com) <br>
+If you want to know more about me, please refer to my [portfolio]().
+
+### Creers
+<code><a href="" rel="nofollow">Gwangju Software Meister High School</a></code>(2021.03 ~ 2024.01)   
+<code><a href="" rel="nofollow">Chosun University</a></code>(2024.03 ~ ing)
+<!-- <div align="center"> 
+<!-- <a href="https://dystopia050119.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0966c2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
+  <!--<a href="https://www.notion.so/Choi-JunSeong-1f2f9f6d2c13437c8e4f14e5b5ff089d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
+<!-- <a href="mailto:chlwnstjdchlwnstjd@gmail.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31ftulalbkknl44b7r46dutuatsm?si=1c9fa418798c4775" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>   
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pfopcom3ygu2squf5awfc2fha4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=5b3ba5&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pfopcom3ygu2squf5awfc2fha4&redirect=true)
+--->
+  
+
+
+   
+
+
+</div>
 
 <!--
 **Jastes/Jastes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jastes&count_private=true&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jastes&count_private=true&show_icons=true&theme=radical) -->
 <!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hompens4)](https://solved.ac/kinetic27)-->
 
 <!-- ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hompens4)-->
